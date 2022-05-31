@@ -2325,11 +2325,23 @@ var VMSkus = []VMSku{
 		AcceleratedNetworking: false,
 	},
 	{
+		Name:                  "Standard_L16as_v3",
+		AcceleratedNetworking: true,
+	},
+	{
 		Name:                  "Standard_L16s",
 		AcceleratedNetworking: false,
 	},
 	{
 		Name:                  "Standard_L16s_v2",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L16s_v3",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L32as_v3",
 		AcceleratedNetworking: true,
 	},
 	{
@@ -2341,7 +2353,19 @@ var VMSkus = []VMSku{
 		AcceleratedNetworking: true,
 	},
 	{
+		Name:                  "Standard_L32s_v3",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L48as_v3",
+		AcceleratedNetworking: true,
+	},
+	{
 		Name:                  "Standard_L48s_v2",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L48s_v3",
 		AcceleratedNetworking: true,
 	},
 	{
@@ -2349,11 +2373,31 @@ var VMSkus = []VMSku{
 		AcceleratedNetworking: false,
 	},
 	{
+		Name:                  "Standard_L64as_v3",
+		AcceleratedNetworking: true,
+	},
+	{
 		Name:                  "Standard_L64s_v2",
 		AcceleratedNetworking: true,
 	},
 	{
+		Name:                  "Standard_L64s_v3",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L80as_v3",
+		AcceleratedNetworking: true,
+	},
+	{
 		Name:                  "Standard_L80s_v2",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L80s_v3",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L8as_v3",
 		AcceleratedNetworking: true,
 	},
 	{
@@ -2362,6 +2406,10 @@ var VMSkus = []VMSku{
 	},
 	{
 		Name:                  "Standard_L8s_v2",
+		AcceleratedNetworking: true,
+	},
+	{
+		Name:                  "Standard_L8s_v3",
 		AcceleratedNetworking: true,
 	},
 	{
