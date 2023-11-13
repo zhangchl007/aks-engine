@@ -48,7 +48,7 @@ require (
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.25.0
 	gopkg.in/ini.v1 v1.41.0
-	k8s.io/api v0.16.15
-	k8s.io/apimachinery v0.16.15
-	k8s.io/client-go v0.16.15
+	k8s.io/api v0.17.16
+	k8s.io/apimachinery v0.17.16
+	k8s.io/client-go v0.17.16
 )
